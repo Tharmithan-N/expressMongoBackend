@@ -1,0 +1,22 @@
+{
+  "name": "expressmongobackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tharmithan-N/expressMongoBackend.git"
+  },
+  "author": "Tharmithan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tharmithan-N/expressMongoBackend/issues"
+  },
+  "homepage": "https://github.com/Tharmithan-N/expressMongoBackend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
